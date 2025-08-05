@@ -1,6 +1,7 @@
 # 🐳 Node.js CI/CD avec Docker
 
 ![CI](https://github.com/ldandoy/nodejs-ci-cd-demo/actions/workflows/ci.yml/badge.svg)
+![Lint](https://github.com/ldandoy/odejs-ci-cd-demo/actions/workflows/lint.yml/badge.svg)
 
 Ce projet est un exemple pédagogique pour apprendre l'intégration continue (CI) avec une application Node.js **entièrement contenue dans Docker**.
 
